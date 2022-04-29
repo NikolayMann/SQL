@@ -11,7 +11,6 @@
           "System.Data.OleDb": "6.0.0",
           "System.Data.SqlClient": "4.8.3",
           "Interop.SSCE": "3.5.0.0",
-          "Interop.SQLDRIVELib": "1.0.0.0",
           "Interop.SystemMonitor": "3.7.0.0"
         },
         "runtime": {
@@ -296,14 +295,6 @@
           }
         }
       },
-      "Interop.SQLDRIVELib/1.0.0.0": {
-        "runtime": {
-          "Interop.SQLDRIVELib.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "Interop.SystemMonitor/3.7.0.0": {
         "runtime": {
           "Interop.SystemMonitor.dll": {
@@ -440,11 +431,6 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Interop.SSCE/3.5.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Interop.SQLDRIVELib/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

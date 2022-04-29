@@ -1,0 +1,9 @@
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.csproj.AssemblyReference.cache
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\Interop.SSCE.dll
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\Interop.SystemMonitor.dll
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.csproj.ResolveComReference.cache
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.AssemblyInfoInputs.cache
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.AssemblyInfo.cs
+C:\Users\Коля\Documents\SQL\obj\x64\Debug\net48\SQL_Test.csproj.CoreCompileInputs.cache

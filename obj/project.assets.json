@@ -840,19 +840,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\.nuget\\packages\\": {}
+    "C:\\Users\\Коля\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\source\\repos\\SQL_Test\\SQL_Test.csproj",
+      "projectUniqueName": "D:\\SQL\\SQL_Test.csproj",
       "projectName": "SQL_Test",
-      "projectPath": "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\source\\repos\\SQL_Test\\SQL_Test.csproj",
-      "packagesPath": "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\source\\repos\\SQL_Test\\obj\\",
+      "projectPath": "D:\\SQL\\SQL_Test.csproj",
+      "packagesPath": "C:\\Users\\Коля\\.nuget\\packages\\",
+      "outputPath": "D:\\SQL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nikolay.DESKTOP-HRLQS2P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Коля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -864,6 +869,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -875,6 +881,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.Data.OleDb": {
             "target": "Package",
@@ -900,7 +907,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

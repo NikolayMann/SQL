@@ -10,8 +10,6 @@
         "dependencies": {
           "System.Data.OleDb": "6.0.0",
           "System.Data.SqlClient": "4.8.3",
-          "Interop.SSCE": "3.5.0.0",
-          "Interop.SQLDRIVELib": "1.0.0.0",
           "Interop.SystemMonitor": "3.7.0.0"
         },
         "runtime": {
@@ -288,22 +286,6 @@
           }
         }
       },
-      "Interop.SSCE/3.5.0.0": {
-        "runtime": {
-          "Interop.SSCE.dll": {
-            "assemblyVersion": "3.5.0.0",
-            "fileVersion": "3.5.0.0"
-          }
-        }
-      },
-      "Interop.SQLDRIVELib/1.0.0.0": {
-        "runtime": {
-          "Interop.SQLDRIVELib.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "Interop.SystemMonitor/3.7.0.0": {
         "runtime": {
           "Interop.SystemMonitor.dll": {
@@ -438,16 +420,6 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
-    },
-    "Interop.SSCE/3.5.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Interop.SQLDRIVELib/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     },
     "Interop.SystemMonitor/3.7.0.0": {
       "type": "reference",
